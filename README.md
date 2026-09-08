@@ -82,10 +82,6 @@ The dashboard combines data cleaning, calculated metrics, Excel formulas, Pivot 
 
 This project demonstrates the ability to transform raw transactional data into an interactive business dashboard and communicate analytical findings through KPIs and visualizations.
 
-## 📂 Project Files
-
-- `Excel Project.xlsx` — Source data, analysis, and dashboard
-- `Dashboard Screenshots` — Preview of the final dashboard
 
 ## 👤 Author
 
