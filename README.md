@@ -1,6 +1,14 @@
 # Excel Sales & Order Analytics Dashboard
 
+![Excel Sales & Order Analytics Dashboard](Dashboard1.png)
+![Excel Sales & Order Analytics Dashboard](Dashboard2.png)
+![Excel Sales & Order Analytics Dashboard](Dashboard3.png)
+
+
 ## 📊 Project Overview
+
+This project is an Excel dashboard built to analyze sales and order data
+and generate meaningful business insights.
 
 This project is an interactive Excel dashboard built to analyze sales and order data and generate meaningful business insights.
 
